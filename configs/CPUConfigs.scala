@@ -1,0 +1,1 @@
+/root/chipyard/generators/gemmini/../chipyard/src/main/scala/config/GemminiCPUConfigs.scala
